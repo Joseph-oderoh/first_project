@@ -64,13 +64,22 @@ header{
     padding: 40px;
     margin: 10px;
 }
+h2{
+    text-align: center; co
+}
 .flex-container{
-    border:  2px solid lime;
     display: flex;
     justify-content: center;
     flex-direction: row;
     align-items: center;
     flex-wrap: wrap;
+    align-content: center;
+}
+.flex1{
+    padding: ;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 45px;
 }
 button{
     border-radius: 180px;
