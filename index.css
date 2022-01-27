@@ -9,6 +9,17 @@ html{
 header{
     text-align: right;
     font-weight: bold;
+    margin:  10px;
+}
+.im1{
+    display: flex;
+    justify-content: flex-start;
+    font-weight: bold;
+}
+.photo1{
+    display: flex;
+    justify-content: right;
+
 }
 h1{
     font-size: x-large;
