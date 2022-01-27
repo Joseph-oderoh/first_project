@@ -21,11 +21,14 @@ header{
     justify-content: right;
 
 }
-h1{
-    font-size: x-large;
+.paragr1{
     font-weight: bolder;
-    text-align: center;
-    padding: 2px;
+    font-size: x-large;
+    padding: 20px;
+}
+.paragr1 p{
+    font-size: medium;
+    font-weight: normal;
 }
 .container{
     display: flex;
@@ -61,19 +64,20 @@ h1{
     padding: 40px;
     margin: 10px;
 }
-h6{
-    font-size: small;
-    font-weight: lighter;
-    direction: right;
-}
-h2{
-    text-align: center;
+.flex-container{
+    border:  2px solid lime;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
 }
 button{
     border-radius: 180px;
     border-bottom-right-radius: 45px;
     font-weight: bold;
     background-color: orange;
+    padding: 10px;
 }
 
 footer{
