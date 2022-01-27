@@ -93,7 +93,10 @@ button{
     background-color: orange;
     padding: 10px;
 }
-
+.double{
+    display: flex;
+    justify-content: right;
+}
 footer{
     
 font-weight: small;
