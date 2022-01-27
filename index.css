@@ -10,6 +10,10 @@ header{
     text-align: right;
     font-weight: bold;
     margin:  10px;
+} .bg.1{
+    height: 400px;
+    width: 400px;
+    ba
 }
 .im1{
     display: flex;
