@@ -5,11 +5,13 @@
 ### By Joseph Kenedy Oderoh
 
 ## Description 
-THis is is an advertisment about a food join kmown fof its tastiest meals.
+THis is is an advertisment about a food join known for its tastiest meals.
 
 ## Setup/instullation instractions
-You will first need to get into a browser
-Find a downloading link 
+
+You will first need to get into a browser.
+Find a downloading link.
+Click on it 
 Finaly enjoy the experince
 
 ## LICENCE  
