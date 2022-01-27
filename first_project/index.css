@@ -1,53 +1,117 @@
-html{
+html{ 
+    border: solid ;
+    margin:20px;
     background-color: white;
-    margin: 200px;
+    height: fit-content;
+    
 }
 
 header{
     text-align: right;
     font-weight: bold;
+    margin:  10px;
 }
-h1{
-    font-size: x-large;
-    font-weight: bolder;
+.pg1{
+    height: 400px;
+    width: 400px;
+    background-color: orange;
 }
-h6{
-    font-size: small;
-    font-weight: lighter;
-}
-a{
-    align-items: left;
-    font-style: italic;
+.im1{
+    display: flex;
+    justify-content: left;
     font-weight: bold;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.photo1{
+    display: flex;
+    justify-content: right;
 
 }
-p{
-margin-right: 20px;
-font-size: x-large;
-font-weight: bolder;
+.paragr1{
+    font-weight: bolder;
+    font-size: x-large;
+    padding: 20px;
+}
+.paragr1 p{
+    font-size: medium;
+    font-weight: normal;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: row;
+    align-items: center
+}
+.b1{
+    align-content: center;
+    border: none;
+    border-radius: 45px;
+    align-content: center;
+    font-size: small;
+    padding: 40px;
+    margin: 10px;
+}
+.b2{
+    align-content: center;
+    border: none;
+    border-radius: 45px;
+    align-content: center;
+    font-size: small;
+    padding: 40px;
+    margin-top: 40px;
+}
+.b3{
+    align-content: center;
+    border: none;
+    border-radius: 45px;
+    align-content: center;
+    font-size: small;
+    padding: 40px;
+    margin: 10px;
 }
 h2{
-    text-align: center;
+    text-align: center; 
 }
-div{
-    float: right;
-    font-weight: lighter;
-    font-size: x-small;
-    border: thick;
-    background-color: wheat;
-    margin: 40px;
-    border-width: 50px;
-    border-radius: 360px;
+.flex-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+}
+.flex1{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 45px;
 }
 button{
     border-radius: 180px;
     border-bottom-right-radius: 45px;
     font-weight: bold;
     background-color: orange;
+    padding: 10px;
+}
+
+.double1{
+    display:flex;
+    justify-content: right;
+}
+.double2{
+    display:flex;
+    justify-content: right;
+}
+.secl{
+    border: 2px;
+    height: 200px;
+    width: 200px;
+    background-color: coral;
 }
 footer{
-padding: 2px;
+    
+font-weight: small;
 text-align: left;
+font-size: small;
 
 }
