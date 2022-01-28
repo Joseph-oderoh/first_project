@@ -11,7 +11,11 @@ THis is is an advertisment about a food join known for its tastiest meals.
 
 You will first need to get into a browser.
 Find a downloading link.
+Click on https://joseph-oderoh.github.io/first_project/
 Finaly enjoy the experince
 
+## Contacts
+you can reach me:
+Email joseph.oderoh@student.moringaschool.com
 ## LICENCE  
 Copyright (c) 2022[click to view LICENCE](LICENCE)
