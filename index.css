@@ -1,0 +1,112 @@
+html{ 
+    border: solid ;
+    margin:20px;
+    background-color: white;
+    height: fit-content;
+    
+}
+
+header{
+    text-align: right;
+    font-weight: bold;
+    margin:  10px;
+}
+.pg1{
+    height: 400px;
+    width: 400px;
+    background-color: orange;
+}
+.im1{
+    display: flex;
+    justify-content: left;
+    font-weight: bold;
+}
+.photo1{
+    display: flex;
+    justify-content: right;
+
+}
+.paragr1{
+    font-weight: bolder;
+    font-size: x-large;
+    padding: 20px;
+}
+.paragr1 p{
+    font-size: medium;
+    font-weight: normal;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: row;
+    align-items: center
+}
+.b1{
+    align-content: center;
+    border: none;
+    border-radius: 45px;
+    align-content: center;
+    font-size: small;
+    padding: 40px;
+    margin: 10px;
+}
+.b2{
+    align-content: center;
+    border: none;
+    border-radius: 45px;
+    align-content: center;
+    font-size: small;
+    padding: 40px;
+    margin-top: 40px;
+}
+.b3{
+    align-content: center;
+    border: none;
+    border-radius: 45px;
+    align-content: center;
+    font-size: small;
+    padding: 40px;
+    margin: 10px;
+}
+h2{
+    text-align: center; 
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+}
+.flex1{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 45px;
+}
+.flex{
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 45px;
+}
+button{
+    border-radius: 180px;
+    border-bottom-right-radius: 45px;
+    font-weight: bold;
+    background-color: orange;
+    padding: 10px;
+}
+.double{
+    display: flex;
+    justify-content: right;
+}
+footer{
+    
+font-weight: small;
+text-align: left;
+font-size: small;
+
+}
