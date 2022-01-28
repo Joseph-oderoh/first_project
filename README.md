@@ -11,7 +11,6 @@ THis is is an advertisment about a food join known for its tastiest meals.
 
 You will first need to get into a browser.
 Find a downloading link.
-Click on it https://joseph-oderoh.github.io/first_project/
 Finaly enjoy the experince
 
 ## LICENCE  
